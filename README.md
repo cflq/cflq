@@ -28,18 +28,19 @@ Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah 
 <img align="left" alt= "Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
 <img align="left" alt= "Blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" /><br>
 
-#
-
-### Stats
-
-
-![Flame's Stats](https://github-readme-stats.vercel.app/api?username=cflq&show_icons=true&theme=algolia)
 
 #
 
 ### Most Used Languages
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cflq&theme=algolia)](https://github.com/cflq/github-readme-stats)
+
+#
+
+### Stats
+
+
+![Flame's Stats](https://github-readme-stats.vercel.app/api?username=cflq&show_icons=true&theme=algolia)
 
 #
  <details>
