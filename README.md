@@ -34,7 +34,6 @@ Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah 
 ![Flame's Stats](https://github-readme-stats.vercel.app/api?username=cflq&show_icons=true&theme=algolia)
 
 #
-<br><br>
  <details>
   <summary><h3>About Me</h3></summary>
    a computer science student, what else do you wanna know dawg.
