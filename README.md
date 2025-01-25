@@ -39,7 +39,7 @@ Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah 
 
 ### Most Used Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cflq)](https://github.com/cflq/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cflq&theme=algolia)](https://github.com/cflq/github-readme-stats)
 
 #
  <details>
